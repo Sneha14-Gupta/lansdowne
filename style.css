@@ -32,8 +32,8 @@ main {
   width: 100vw;
 }
 .attractions {
-  height: 60%;
-  width: 100%;
+  height: 50vh;
+  width: 100vw;
   display: flex;
   justify-content: space-evenly;
   background-color: #faebd7;
